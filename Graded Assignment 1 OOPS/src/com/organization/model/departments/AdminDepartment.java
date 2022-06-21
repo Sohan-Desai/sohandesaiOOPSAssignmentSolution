@@ -12,11 +12,11 @@ public class AdminDepartment extends SuperDepartment {
 	}
 	/**
 	 * 
-	 * @return
+	 * @return today's work as "Complete your documents Submission"
 	 */
 	public String getTodaysWork() {
 		
-		return "Complete your documents Submission";
+		return "Complete your documents submission";
 	}
 	/**
 	 * 

@@ -11,7 +11,7 @@ public class SuperDepartment {
 	}
 	/**
 	 * 
-	 * @return
+	 * @return today's work as "No work as of now"
 	 */
 	public String getTodaysWork() {
 		
@@ -27,7 +27,7 @@ public class SuperDepartment {
 	}
 	/**
 	 * 
-	 * @return
+	 * @return "Today is not a Holiday"
 	 */
 	public String isTodayAHoliday() {
 		

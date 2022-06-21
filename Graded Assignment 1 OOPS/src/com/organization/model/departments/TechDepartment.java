@@ -12,11 +12,11 @@ public class TechDepartment extends SuperDepartment {
 	}
 	/**
 	 * 
-	 * @return
+	 * @return today's work as "Complete coding of module 1"
 	 */
 	public String getTodaysWork() {
 		
-		return "Complete coding of module 1";
+		return "Complete coding of Module 1";
 	}
 	/**
 	 * 
@@ -28,10 +28,10 @@ public class TechDepartment extends SuperDepartment {
 	}
 	/**
 	 * 
-	 * @return tech stack information as "core Java"
+	 * @return tech stack information as "Core Java"
 	 */
 	public String getTechStackInformation() {
 		
-		return "core Java";
+		return "Core Java";
 	}
 }
